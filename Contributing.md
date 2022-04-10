@@ -1,2 +1,2 @@
 # Tavsiye
-## Cv sayfasında responsive tasasrımda ufak problemler vardır.Mevcut sorunlarla ilgili bana çözmlerinizi iletebilirsiniz.
+## Cv sayfasında responsive tasarımında ufak problemler vardır.Mevcut sorunlarla ilgili bana çözümlerinizi iletebilirsiniz.
